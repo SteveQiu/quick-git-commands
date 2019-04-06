@@ -1,3 +1,5 @@
+# Helper method for git management (Linux only)
+
 # How to install
 Save quick-git.sh in your home directory
 
